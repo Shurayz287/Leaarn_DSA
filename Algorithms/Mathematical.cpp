@@ -1,3 +1,7 @@
+/*
+    Learn from G4G, some solve from me
+    https://www.geeksforgeeks.org/mathematical-algorithms-difficulty-wise/
+*/
 # include <bits/stdc++.h>
 
 using namespace std;
